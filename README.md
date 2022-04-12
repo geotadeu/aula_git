@@ -29,5 +29,5 @@ def openFile():
 ```
 > Teste
 > Final teste
-<
-<
+>
+>
